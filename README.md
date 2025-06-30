@@ -23,6 +23,7 @@ Currently, the work is primarily centered around aerodynamic optimization. These
 
 - `/docs` — Design notes, ideas, and simulation logs
 - `/models` — FreeCAD files for each design iteration
+- `/stl` — STL files for each CFD simulation 
 - `/images` — Visualizations from CFD simulations
 
 ---
