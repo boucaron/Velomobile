@@ -359,7 +359,7 @@ Notes:
 
 ### Velomobile_22 (30/06/2025)
 
-Back to case 15, added diffuser at 7°
+Back to case 15, using larger fillets than 19 case and added dual diffusers at 7° (tunnels still present)
 
 Simulation 6/7 @ 17 m/s  
 - Drag: 7.29248 N  
