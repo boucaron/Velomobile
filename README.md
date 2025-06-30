@@ -39,3 +39,10 @@ Currently, the work is primarily centered around aerodynamic optimization. These
 This project is licensed under the [MIT License](LICENSE) — free to use, share, and modify.
 
 
+## Simulation Screenshots
+
+| ![Screenshot 1](images/Screenshot%202025-06-30%20215540.png) | ![Screenshot 2](images/Screenshot%202025-06-30%20215559.png) | ![Screenshot 3](images/Screenshot%202025-06-30%20215612.png) |
+|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| ![Screenshot 4](images/Screenshot%202025-06-30%20215628.png) | ![Screenshot 5](images/Screenshot%202025-06-30%20215639.png) | ![Screenshot 6](images/Screenshot%202025-06-30%20215748.png) |
+| ![Screenshot 7](images/Screenshot%202025-06-30%20220239.png) | ![Screenshot 8](images/Screenshot%202025-06-30%20220439.png) | ![Screenshot 9](images/Screenshot%202025-06-30%20220811.png) |
+
