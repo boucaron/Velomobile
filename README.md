@@ -1,29 +1,41 @@
 # Velomobile Design Project
 
-This repository documents cad designs and notes to try to design high-efficiency human-powered velomobile with a focus on ultra-low aerodynamic drag and sub-30 kg total weight.
+This repository documents CAD designs and notes for a high-efficiency, human-powered velomobile. The focus is on achieving ultra-low aerodynamic drag and a total weight under 30 kg.
 
-So far, I only focused on the aerodynamics part.
-For sure, it has not realistic cases, it is just a design in exploration
+Currently, the work is primarily centered around aerodynamic optimization. These designs are conceptual and experimental — not yet constrained by real-world manufacturing or regulatory limitations.
 
+---
 
 ## Highlights
-- Sub-0.10 drag coefficient (Cr)
-- 17m/s drag: ~7.3N → ~124W
-- Simulation-driven iterative shaping
-- 24 simulation logs from Velomobile_01 to Velomobile_22+
-- Experimental features: diffuser, cabin ventilation, wake shaping
 
-## Structure
+- Target drag coefficient (Cr): **< 0.10**
+- Drag at 17 m/s: **~7.3 N** → Power: **~124 W**
+- Fully simulation-driven, iterative shape refinement
+- 20+ design iterations (Velomobile_01 → Velomobile_22+)
+- Experimental aerodynamic features:
+  - Diffuser integration
+  - Tail shaping for wake control
+  - Cabin ventilation via pressure differential [TODO]
 
-- `/docs` — Design notes
-- `/models` — FreeCAD files of each iteration
-- `/images` — Simulation screenshots and visual documentation
+---
 
-##  Tools Used
+## Repository Structure
 
-- CAD: FreeCAD 1.0.x
-- CFD: InsightCAE OpenFOAM
+- `/docs` — Design notes, ideas, and simulation logs
+- `/models` — FreeCAD files for each design iteration
+- `/images` — Visualizations from CFD simulations
+
+---
+
+## Tools Used
+
+- **CAD:** FreeCAD 1.0.x  
+- **CFD:** InsightCAE (OpenFOAM-based)
+
+
 
 ## License
 
-[MIT](LICENSE) — Free to use, share and modify.
+This project is licensed under the [MIT License](LICENSE) — free to use, share, and modify.
+
+
